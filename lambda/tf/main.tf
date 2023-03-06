@@ -1,0 +1,5 @@
+
+
+module "lambda" {
+  source = "./lambda"
+}
